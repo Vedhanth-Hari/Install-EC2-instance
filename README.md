@@ -101,3 +101,11 @@ Log in with admin credentials.
 Result:
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
+
+![1 whatsapp](https://github.com/user-attachments/assets/5b90b802-a916-43c8-999e-20f7406f23b8)
+
+![WhatsApp2](https://github.com/user-attachments/assets/190dfa6f-8a75-4f61-96e7-2dcf46705cca)
+
+![WhatsApp3](https://github.com/user-attachments/assets/eea7bbe2-61f0-40a9-badb-f7d4174bb82a)
+
+![WhatsApp4](https://github.com/user-attachments/assets/c361dbf1-984d-40e5-aadc-d91ce5b2d5e3)
